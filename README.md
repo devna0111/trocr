@@ -6,5 +6,5 @@
 - python 3.11
 
 ## 활용 기술
-- **graio**
+- **gradio**
 - **trasformers**
