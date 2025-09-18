@@ -1,0 +1,5 @@
+protobuf == 3.20.0
+gradio == 3.40.0
+transformers == 4.56.1
+Numpy == 1.26.4
+pillow == 10.4.0
